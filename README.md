@@ -14,7 +14,14 @@ Computer graphics project
         3. Rain Mode: to start rain ‘r’ key is used. To stop rain ‘e’ key button is used.
         4. ‘s’ for sound and t for off
 ## Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Day view
+![image](https://user-images.githubusercontent.com/53036465/155009389-af192fd4-bd8b-4469-89c6-6884c96f52be.png)
+
+- Night view
+![image](https://user-images.githubusercontent.com/53036465/155009497-dca007b8-938a-4b49-be66-6af1fda78c55.png)
+
+- Rain view
+![image](https://user-images.githubusercontent.com/53036465/155009619-ae0a0767-bd45-479d-8c1e-c4554e5cc133.png)
 
 
 ## Appendix
